@@ -21,3 +21,27 @@ span{
     color: red;
     font-weight: bold;
 }
+
+.boxes{
+    margin: 2em;
+    padding: 1.5em;
+    border: 3px solid orangered;
+    border-radius: 5px;
+    width: 30em;
+}
+
+#box1{
+    background-color: white 
+}
+
+#box2{
+    background-color: rgb(18, 248, 18)
+}
+
+#box3{
+    background-color: rgb(0, 157, 255)
+}
+
+#box4{
+    background-color: rgb(252, 218, 67)
+}
