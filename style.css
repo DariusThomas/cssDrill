@@ -1,0 +1,23 @@
+body{
+    font-family: "Arial", times, serif; 
+    background-color: lightgray;
+}
+
+h2, p , .readme-wrapper{
+text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight:bold;
+    color:blueviolet;
+    cursor: pointer;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+}
