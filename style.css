@@ -55,3 +55,47 @@ span{
     border-radius: 50px;
     background-color: rgb(104, 6, 104);
 }
+
+h1{
+    font-family: "cursive", monospace, sans-serif;
+    color: rgb(255, 0, 0);
+}
+
+.original{
+    color: black;
+}
+
+.additional{
+    color: blue;
+}
+
+#show1{
+    color: rgb(211, 214, 2)
+}
+#show2{
+    color: rgb(102, 151, 5)
+}
+#show3{
+    color: rgb(0, 121, 0)
+}
+#show4{
+    color: rgb(0, 116, 106)
+}
+#show5{
+    color: rgb(0, 26, 48)
+}
+
+ul{
+    color: rgb(255, 0, 0)
+}
+.star{
+    color: green;
+}
+
+#wars{
+    color:blue;
+}
+
+.list-div{
+    border: 2px solid black;
+}
